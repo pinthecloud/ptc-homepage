@@ -96,6 +96,19 @@ body{
 	line-height: 1.7em;
 }
 
+.editor_image{
+	position: relative;
+}
+
+.editor_image .editor_image_text >p {
+	position: absolute;
+	left: 100px;
+	bottom: 8px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #263238;
+}
+
 .pro-mail-button{
 	margin-top: 30px;
 }
