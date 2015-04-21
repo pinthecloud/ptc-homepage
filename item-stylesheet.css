@@ -199,7 +199,6 @@ body{
 	border-top: 1px solid #263238;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	text-align: center;
 	color: #FFFFFF;
 	font-size: 18px;
 	font-weight: bold;
@@ -214,24 +213,36 @@ body{
 	color: #FFAB00;
 }
 
-.terms > h3{
+.terms{
+	text-align: right;
+}
+
+.private{
+	text-align: left;
+}
+
+.terms_info > h3{
 	color: #FFFFFF;
 	font-family: 'nanumgothic';
 	font-size: 50px;
 	font-weight: bold;
 }
 
-.terms > p{
+.terms_info > p{
 	color: #FFFFFF;
 	font-family: 'nanumgothic';
 	font-size: 15px;
 }
 
-.terms > h2{
+.terms_info > h2{
 	color: #FFFFFF;
 	font-family: 'nanumgothic';
 	font-size: 30px;
 	font-weight: bold;
+}
+
+.container_terms{
+	margin-top: 30px;
 }
 
 
