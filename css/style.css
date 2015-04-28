@@ -30,7 +30,7 @@ body{
 .intro-message-background{
 	position: relative;
 	padding-top: 15%;
-	background: url(PNG/main_img.png) no-repeat center center scroll;
+	background: url(../img/main_img.png) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -68,7 +68,7 @@ body{
 }
 
 .pro-box{
-	background: url(PNG/pro_background.png) no-repeat center center scroll;
+	background: url(../img/pro_background.png) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -133,7 +133,7 @@ body{
 	margin-right: 10%;
 	padding-top: 2%;
 	padding-bottom: 2%;
-	background: url(PNG/seller_background.png) no-repeat center center scroll;
+	background: url(../img/seller_background.png) no-repeat center center scroll;
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -209,7 +209,7 @@ body{
 	color: #B0BEC5;
 }
 
-#highlight-text{
+.highlight-text{
 	color: #FFAB00;
 }
 
